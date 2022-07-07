@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>142005944316-r3vt5ja2tem4bmrdkfeprgr6oj4tidar.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.142005944316-r3vt5ja2tem4bmrdkfeprgr6oj4tidar</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC8W_LTMPYGBQwGbNflBiIHY6Ov09NcdxU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>142005944316</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fishingArticle</string>
+	<key>PROJECT_ID</key>
+	<string>fishing-article-a4ce9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fishing-article-a4ce9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:142005944316:ios:cae808161a24df8536fc79</string>
+</dict>
+</plist>
