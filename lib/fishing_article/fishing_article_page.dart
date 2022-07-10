@@ -1,4 +1,3 @@
-import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:fishing_article/fishing_article/fishing_article_model.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -18,11 +17,11 @@ class FishingArticlePage extends StatelessWidget {
         ),
         body: Center(
           child:Consumer<FishingArticleModel>(builder: (context, model, child) {
-            final List<Fishing>? fishings = model.articles;
-            if (fishings == null){
+            final List<Fishing>? articles = model.articles;
+            if (articles == null){
               return CircularProgressIndicator();
             }
-            final List<Widget> widgets = fishings.map(
+            final List<Widget> widgets = articles.map(
                     (article) => ListTile(
                       title: Text(article.title),
                       subtitle: Text(article.type),
