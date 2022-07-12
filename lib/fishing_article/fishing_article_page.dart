@@ -1,7 +1,6 @@
 import 'package:fishing_article/fishing_article/fishing_article_model.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-
 import '../domain/fishing.dart';
 
 class FishingArticlePage extends StatelessWidget {
@@ -17,7 +16,7 @@ class FishingArticlePage extends StatelessWidget {
         ),
         body: Center(
           child:Consumer<FishingArticleModel>(builder: (context, model, child) {
-            final List<Fishing>? articles = model.articles;
+            final List<Fishing>? articles = model.fishings;
             if (articles == null){
               return CircularProgressIndicator();
             }

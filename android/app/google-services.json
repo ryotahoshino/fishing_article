@@ -1,148 +1,40 @@
 {
   "project_info": {
-    "project_number": "456356334723",
-    "project_id": "book-list-sample2-e7e2b",
-    "storage_bucket": "book-list-sample2-e7e2b.appspot.com"
+    "project_number": "142005944316",
+    "project_id": "fishing-article-a4ce9",
+    "storage_bucket": "fishing-article-a4ce9.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:456356334723:android:540ea0261d4ab541391fb6",
-        "android_client_info": {
-          "package_name": "com.example.book_list_sample2"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "456356334723-sujuhlpmngeg9t1h92uob616llva59bg.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAjksXYpIhC0jEHVFRw85OrhVnhGktj1qA"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "456356334723-sujuhlpmngeg9t1h92uob616llva59bg.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "456356334723-7r70hm56trejc396fhkfuigneqlrsvkh.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.fishing.fishing"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:456356334723:android:454c197d1bfe4550391fb6",
+        "mobilesdk_app_id": "1:142005944316:android:18da1ef87856a0ad36fc79",
         "android_client_info": {
           "package_name": "com.example.fishing_article"
         }
       },
       "oauth_client": [
         {
-          "client_id": "456356334723-sujuhlpmngeg9t1h92uob616llva59bg.apps.googleusercontent.com",
+          "client_id": "142005944316-to6rh2bpgb2b9u6fpsoem6vronf672tl.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAjksXYpIhC0jEHVFRw85OrhVnhGktj1qA"
+          "current_key": "AIzaSyB7x5FwtT1VuRTYsF0-ApfR1dcg5HE3fg8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "456356334723-sujuhlpmngeg9t1h92uob616llva59bg.apps.googleusercontent.com",
+              "client_id": "142005944316-to6rh2bpgb2b9u6fpsoem6vronf672tl.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "456356334723-7r70hm56trejc396fhkfuigneqlrsvkh.apps.googleusercontent.com",
+              "client_id": "142005944316-r3vt5ja2tem4bmrdkfeprgr6oj4tidar.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.fishing.fishing"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:456356334723:android:28ded3282f31bfc8391fb6",
-        "android_client_info": {
-          "package_name": "com.example.fishing_article2"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "456356334723-sujuhlpmngeg9t1h92uob616llva59bg.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAjksXYpIhC0jEHVFRw85OrhVnhGktj1qA"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "456356334723-sujuhlpmngeg9t1h92uob616llva59bg.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "456356334723-7r70hm56trejc396fhkfuigneqlrsvkh.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.fishing.fishing"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:456356334723:android:deb0f983c906a2d4391fb6",
-        "android_client_info": {
-          "package_name": "com.fishing.fishing"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "456356334723-sujuhlpmngeg9t1h92uob616llva59bg.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAjksXYpIhC0jEHVFRw85OrhVnhGktj1qA"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "456356334723-sujuhlpmngeg9t1h92uob616llva59bg.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "456356334723-7r70hm56trejc396fhkfuigneqlrsvkh.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.fishing.fishing"
+                "bundle_id": "com.example.fishingArticle"
               }
             }
           ]
